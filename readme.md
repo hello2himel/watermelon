@@ -1,4 +1,3 @@
-```markdown
 # 🍉 Watermelon App
 
 A playful yet profound desktop app written in Python using Tkinter. At first glance, it seems like just a quirky little virus—every time you close a watermelon window, it multiplies. But dig a little deeper, and you'll find something more.  
@@ -137,8 +136,5 @@ Also uses `tkinter`, which comes built-in with Python on most platforms.
 ## 📝 License
 
 MIT License. Do whatever you want. Share the chaos 🌱
-```
 
 ---
-
-Want me to generate the `requirements.txt` too? Or add badges, emoji headers, or even build instructions for macOS? I got you.
