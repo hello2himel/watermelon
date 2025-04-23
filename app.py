@@ -20,7 +20,7 @@ def on_close(window, image_label, text_label):
         spawn_new_window()
 
     # Then show the message box after a tiny delay
-    window.after(100, lambda: messagebox.showinfo("Warning!", "When you destroy a watermelon, you spread its seeds."))
+    window.after(100, lambda: messagebox.showinfo("Warning!", "When you bomb a watermelon, you spread its seeds 🍉!"))
 
 def spawn_new_window():
     new_win = tk.Toplevel()
