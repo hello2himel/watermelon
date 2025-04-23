@@ -54,7 +54,7 @@ Each window that spawns carries the idea that even in destruction, there is crea
 Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/Watermelon-App.git
+git clone https://github.com/hello2himel/Watermelon.git
 cd Watermelon-App
 ```
 
